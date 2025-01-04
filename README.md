@@ -16,6 +16,7 @@ We will cover 100% of Solidity core concepts in a step-by-step manner, ensuring 
 2. **Node.js Installed**: Download and install Node.js from [Node.js Official Site](https://nodejs.org).
 3. **GitHub Account**: Create one if you don’t have it at [GitHub](https://github.com).
 4. **Visual Studio Code**: [Link](https://code.visualstudio.com/)
+5. **Remix**: [Remix](https://remix.run/)
 
 ---
 
